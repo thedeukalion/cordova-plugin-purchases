@@ -30,7 +30,7 @@
         <source-file src="src/ios/PurchasesPlugin.swift" />
         <podspec>
             <config>
-                <source url="https://github.com/CocoaPods/Specs.git"/>
+			    <source url="https://cdn.cocoapods.org/" />
             </config>
             <pods use-frameworks="true">
                 <pod name="PurchasesHybridCommon" spec="1.6.2"/>
