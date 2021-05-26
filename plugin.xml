@@ -32,7 +32,7 @@
             <config>
 			    <source url="https://cdn.cocoapods.org/" />
             </config>
-            <pods use-frameworks="true">
+            <pods use-frameworks="false">
                 <pod name="PurchasesHybridCommon" spec="1.6.2"/>
             </pods>
         </podspec>
